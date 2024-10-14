@@ -1,0 +1,54 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Create a React Project",
+      "done": false
+    },
+    {
+      "id": 2,
+      "name": "Set up TypeScript with React",
+      "done": false
+    },
+    {
+      "id": 3,
+      "name": "Install dependencies",
+      "done": false
+    },
+    {
+      "id": 4,
+      "name": "Create a component structure",
+      "done": false
+    },
+    {
+      "id": 5,
+      "name": "Design the layout",
+      "done": false
+    },
+    {
+      "id": 6,
+      "name": "Implement state management",
+      "done": false
+    },
+    {
+      "id": 7,
+      "name": "Create a Todo list component",
+      "done": false
+    },
+    {
+      "id": 8,
+      "name": "Add task filtering functionality",
+      "done": false
+    },
+    {
+      "id": 9,
+      "name": "Implement task deletion",
+      "done": false
+    },
+    {
+      "id": 10,
+      "name": "Test and debug the application",
+      "done": false
+    }
+  ]
+}
